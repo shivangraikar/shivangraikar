@@ -24,7 +24,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
 
 - *Machine Learning*: ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white) 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-blue.svg?style=plastic&logo=scikit-learn&logoColor=yellow)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-blue.svg?style=plastic&logo=scikit-learn&logoColor=white)
 
 - *Cloud*: ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-green?style=plastic&logo=Firebase&logoColor=white)
