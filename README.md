@@ -5,11 +5,14 @@
 
 ### Tech Stack
 
-- *Languages*: ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+- *Languages*: ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=plastic&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
-- *Frontend*: ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![ReactJS](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
+
+- *Frontend*: ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=plastic&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=plastic&logo=css3)
+![ReactJS](https://img.shields.io/badge/-ReactJS-grey?style=plastic&logo=react)
 
 - *Backend*: Node.js, Django, Flask
 - *Database*: MongoDB, PostgreSQL, SQL
