@@ -14,7 +14,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=plastic&logo=css3)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-grey?style=plastic&logo=react)
 
-- *Backend*: Node.js, Django, Flask
+- *Backend*: ![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white) 
+
 - *Database*: MongoDB, PostgreSQL, SQL
 - *Machine Learning*: TensorFlow, Scikit-learn
 - *Cloud*: AWS, Firebase, GCP
