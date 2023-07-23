@@ -23,8 +23,14 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-orange?style=plastic&logo=mongodb&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
 
-- *Machine Learning*: TensorFlow, Scikit-learn
-- *Cloud*: AWS, Firebase, GCP
+- *Machine Learning*: ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-blue.svg?style=plastic&logo=scikit-learn&logoColor=yellow)
+
+- *Cloud*: ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-green?style=plastic&logo=Firebase&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)
+
 - *DevOps*: Docker, CI/CD
 
 
