@@ -12,13 +12,17 @@
 
 - *Frontend*: ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=plastic&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=plastic&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-grey?style=plastic&logo=react)
 
 - *Backend*: ![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white) 
 
-- *Database*: MongoDB, PostgreSQL, SQL
+- *Database*: ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-orange?style=plastic&logo=mongodb&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
+
 - *Machine Learning*: TensorFlow, Scikit-learn
 - *Cloud*: AWS, Firebase, GCP
 - *DevOps*: Docker, CI/CD
