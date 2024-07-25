@@ -52,7 +52,7 @@
 
 - 🌐 [Portfolio Website](https://shivangraikar.github.io)
 - 🐦 [Email](mailto:shivangraikar@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/shivang-raikar/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shiva-raikar/)
 
 
 ## Happy Coding!
