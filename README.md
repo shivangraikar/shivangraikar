@@ -44,7 +44,7 @@
 ## GitHub Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivangraikar&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivangraikar&theme=chartreuse-dark&show_icons=true)
 
 
 
