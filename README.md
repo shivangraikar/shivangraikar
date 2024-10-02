@@ -37,7 +37,7 @@
 
 ## What I'm Working On
 
-- 🔭 I’m currently working on building scalable web applications with React and Node.js.
+- 🔭 I’m currently working on building scalable web applications with Next.js + Python/Django with AI/RAG.
 - 💬 Ask me about anything related to web development and machine learning.
 
 
