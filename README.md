@@ -34,6 +34,7 @@
 
 - *DevOps*: Docker, CI/CD
 
+[![AWS Certification](https://images.credly.com/size/680x680/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/832847cd-0174-41b5-ace5-06cbb00fce8b/public_url)
 
 ## What I'm Working On
 
