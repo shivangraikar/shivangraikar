@@ -38,6 +38,10 @@
     <img src="https://images.credly.com/size/680x680/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="120" height="120" alt="AWS Certification">
 </a>
 
+<a href="https://www.credly.com/badges/9b0b6341-ddb6-4fb7-9af0-fad496326225/public_url">
+    <img src="https://images.credly.com/size/680x680/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png" width="120" height="120" alt="AWS Certification">
+</a>
+
 ## What I'm Working On
 
 - 🔭 I’m currently working on building scalable web applications with Next.js + Python/Django with AI/RAG.
