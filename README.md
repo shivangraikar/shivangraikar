@@ -15,7 +15,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=plastic&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-grey?style=plastic&logo=react)
-![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=plastic&logo=nextdotjs&logoColor=white)
 
 - *Backend*: ![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white) 
