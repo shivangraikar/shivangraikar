@@ -19,7 +19,8 @@
 
 - *Backend*: ![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)
+![Supabase](https://shields.io/badge/supabase-black?logo=Supabase&style=plastic)
 
 - *Database*: ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-orange?style=plastic&logo=mongodb&logoColor=white) 
