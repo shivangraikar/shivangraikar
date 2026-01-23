@@ -53,7 +53,7 @@
 ## GitHub Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivangraikar&theme=chartreuse-dark&show_icons=true)
+![GitHub Stats]((https://streak-stats.demolab.com/?user=shivangraikar)](https://git.io/streak-stats))
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivangraikar&theme=chartreuse-dark&show)
 
 
