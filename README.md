@@ -58,7 +58,7 @@
 
 - 🌐 [Portfolio Website](https://shivangraikar.webflow.io)
 - 🐦 [Email](mailto:shivangraikar@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/shiva-raikar/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shivang-raikar/)
 
 
 ## Happy Coding!
