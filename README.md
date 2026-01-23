@@ -52,10 +52,7 @@
 
 ## GitHub Stats
 
-
-![GitHub Stats]((https://streak-stats.demolab.com/?user=shivangraikar)](https://git.io/streak-stats))
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivangraikar&theme=chartreuse-dark&show)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shivangraikar)](https://git.io/streak-stats)
 
 ## Let's Connect
 
